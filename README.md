@@ -3,8 +3,10 @@
 
 This guide will help you deploy [n8n](https://n8n.io) on an EC2 instance using **Amazon Linux 2023**, **Docker**, **Nginx** as a reverse proxy, and **Let's Encrypt (Certbot)** for free SSL.
 
+
 ---
 
+**Primary Keywords:** - n8n EC2 installation - n8n AWS deployment - n8n on Amazon Linux - n8n Docker setup AWS - how to deploy n8n on EC2 - n8n installation with Docker and Nginx - n8n EC2 with SSL - n8n self-hosted AWS - n8n Amazon Linux 2023 setup - n8n EC2 Docker Nginx Certbot **Technical Tags:** - n8n - AWS EC2 - Amazon Linux 2023 - Docker - Nginx - Certbot - Let's Encrypt - reverse proxy - secure deployment - workflow automation - self-hosted n8n - DevOps - backend automation tools **Long-Tail Keywords:** - Step-by-step guide to install n8n on AWS EC2 using Docker - Securely deploy n8n on Amazon Linux 2023 with Nginx and SSL - Install and configure n8n on EC2 instance with HTTPS - Self-hosting n8n with Docker and Let's Encrypt on AWS
 ## ✅ Prerequisites
 
 - Amazon Linux 2023 EC2 instance (e.g., t2.micro, free-tier)
